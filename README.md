@@ -1,6 +1,6 @@
 # Blog
 
-## Bug
+## Error
 
 1. ### ERROR Cannot find module 'hexo' from "..."
 ```
