@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "hexo-asset-image": "^1.0.0",
+    "hexo-renderer-marked": "^6.0.0"
+  }
+}
